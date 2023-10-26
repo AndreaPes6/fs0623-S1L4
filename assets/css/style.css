@@ -1,0 +1,56 @@
+body {
+    display: block;
+    background-color: white;
+    text-align: center;
+    background-image: url(/FE-S1-L4-Esercizio/assets/img/sfondo.png);background-position: center; background-repeat: no-repeat; background-attachment: scroll; background-size: cover;
+}
+
+header{
+    display: block;
+    margin: 60px;
+    padding: 10px;
+    background: rgb(11,2,153);
+background: linear-gradient(0deg, rgba(11,2,153,1) 15%, rgba(0,136,160,1) 100%);
+} 
+h1, nav {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+h1 {
+    display: block;
+    padding: 2%;
+}
+nav {
+    display: block;
+    padding: 2%;
+}
+main {
+    background-color: white;
+    margin: 0px 60px 0px 60px;
+    padding: 5%;
+    text-align: left;
+}
+.gray {
+    color: gray;
+}
+div {
+    display: block;
+    margin: 7%;
+    border: 15%;
+    font-size: 30px;
+
+}
+h2 {
+    font-weight: bold;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
